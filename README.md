@@ -17,7 +17,7 @@ npm i style-bubble
 yarn add style-bubble
 ```
 
-```javascript
+```jsx
 import React from 'react';
 import StyleBubble from 'style-bubble';
 
