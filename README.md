@@ -4,8 +4,8 @@
 ### Problem statement
 You're starting to introduce `styled-components` to an existing codebase that already has _quite a lot_ of CSS/SASS/postCSS.
 Your styled components are lovely, but they keep going askew because of inherited or top-level element styles. So you
-have empty wrapper tags to escape CSS rules, or manually sett `unset` in a lot of places, or use `all` at various
-levels in subtle and hard-to-reason about ways, or just abuse `!important.`
+have empty wrapper tags to escape CSS rules, or manually set `unset` in a lot of places, or use `all` at various
+levels in subtle and hard-to-reason about ways, or just abuse the heck out of `!important.`
  
 In any case, you will end up with with very specific properties and undocumented interactions that will become 
 tomorrow's mysterious layout tech debt. Or...

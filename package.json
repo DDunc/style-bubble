@@ -1,6 +1,6 @@
 {
   "name": "style-bubble",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Duncan",
   "license": "MIT",
   "description": "style components in isolation",
@@ -15,17 +15,18 @@
     "type": "git",
     "url": "git+https://github.com/DDunc/style-bubble.git"
   },
-  "dependencies": {
-    "styled-components": "^4.1.3"
-  },
+  "dependencies": {},
   "peerDependencies": {
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
-    "prop-types": "^15.7.2"
+    "prop-types": "^15.7.2",
+    "styled-components": "^4.1.3"
   },
   "devDependencies": {
     "react": "^16.3.0",
     "react-dom": "^16.3.0",
+    "styled-components": "^4.1.3",
+    "prop-types": "^15.7.2",
     "jest": "^23.5.0",
     "babel-jest": "^23.6.0",
     "babel-cli": "^6.26.0",
